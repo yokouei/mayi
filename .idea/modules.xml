@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../mayi/.idea/mayi.iml" filepath="$PROJECT_DIR$/../mayi/.idea/mayi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/mayi.iml" filepath="$PROJECT_DIR$/.idea/mayi.iml" />
     </modules>
   </component>
 </project>
