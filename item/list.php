@@ -16,7 +16,9 @@
  * Time: 16:40
  */
 
-$link = mysql_connect('localhost', 'root', '9809136');
+require_once(dirname(__FILE__)."/../db_config.php");
+
+$link = mysql_connect('localhost', $user, $pass);
 if (!$link) {
     die('接続失敗です。'.mysql_error());
 }
